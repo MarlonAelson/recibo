@@ -1,0 +1,17 @@
+{
+    "name": "notebook-dell/recibo",
+    "autoload": {
+        "psr-4": {
+            "NotebookDell\\Recibo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marlon notebook dell",
+            "email": "marlon.aelson.gomes@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
